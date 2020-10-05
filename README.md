@@ -6,8 +6,8 @@ go to [android application folder](https://github.com/mano1997max/delivery-app/t
 
 
 # packages
-  geolocator: ^6.0.0+2 \n
-  google_maps_flutter: ^0.5.30
+  geolocator: ^6.0.0+2  
+  google_maps_flutter: ^0.5.30  
   flutter_staggered_grid_view: ^0.3.2
   geocoding: ^1.0.3
   geocoder: ^0.2.1
